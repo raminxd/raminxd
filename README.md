@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/profile-v2.svg" alt="Ramin XD Animation" width="100%" />
+  <img src="assets/profile-v1.svg" alt="Ramin XD Animation" width="100%" />
 </p>
